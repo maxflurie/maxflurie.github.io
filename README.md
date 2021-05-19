@@ -1,5 +1,5 @@
 # Recent Projects
-This repository contains a collection of projects that utilize varied statistical and analytical approaches. Some files include tutorial-based instruction for implementation while others provide only demonstrations.  
+This repository contains a collection of projects that utilize varied statistical and analytical approaches. You will see a range of files: some are fairly simply tutorials for instructional purposes, while others are more complex implementations of machine learning algorithms, statistical models, NLP pipelines, etc used in published projects.  
 
 **For R files:** You will see files that end with ".rmd" and ".html". ".rmd" is an R Markdown file. You can copy and paste the raw code right into your own R Markdown. ".html" is an R Markdown converted to be accesible in a web browser. It is better for instructional purposes (and I usually include all the code you would need for your own projects.) I recommend ".html" for learning purposes. Download the file to your Git/Git Desktop and it will open in a webpage.  
 
