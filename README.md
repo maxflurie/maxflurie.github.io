@@ -5,4 +5,4 @@ This repository contains a collection of projects that utilize varied statistica
 
 **For Python Files:** All Python projects are currenty in the form of Jupyter Notebooks (".ipynb"). If you click on the project in the repository, the full notebook should load. You can also clone the file for your own projects. 
 
-**For Tableau Vizs:** Static .png files for Tableau can be found in this repository (e.g., title_TableauViz.png). You can view interactive Viz's using the following link with an active Tableau Public profile: https://public.tableau.com/profile/max.flurie#!/ 
+**For Tableau Vizs:** Static .png files for Tableau can be found in this repository (e.g., title_TableauViz.png). You can view interactive Vizs using the following link with an active Tableau Public profile: https://public.tableau.com/profile/max.flurie#!/ 
